@@ -21,7 +21,7 @@ Manage your Ansible Tower jobs with ease using this Python tool!
 1. Run the script in your terminal:
 
    ```shell
-    python towerJobs.py
+    python towerScheduledJobs.py
    ```
     
 2. You will be prompted to input the Ansible Tower's host address, your username, and your password.
