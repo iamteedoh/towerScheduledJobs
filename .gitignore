@@ -1,3 +1,6 @@
 *.swp
 .DS_Store
 enabled_jobs.json*
+jobs.json
+list_of_enabled_jobs.json
+list_of_disabled_jobs.json
